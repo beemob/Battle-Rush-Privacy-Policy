@@ -4,11 +4,11 @@ At Beemob Hanoi Studio (“we” or “us”), we are committed to protecting y
 
 ### 1. Which of your Information we collect
 
-```User provided information```
+User provided information
 
-Contact information (such as name and email address)
+ - Contact information (such as name and email address)
 
-Player name and password
+ - Player name and password
 
 Profile information 
 
