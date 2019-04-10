@@ -10,59 +10,59 @@ User provided information
 
  - Player name and password
 
-Profile information 
+ - Profile information 
 
-Your messages to the Service (such as comments or reviews)
+ - Your messages to the Service (such as comments or reviews)
 
-Other data you choose to give us (such as data to identify a lost account)
+ - Other data you choose to give us (such as data to identify a lost account)
 
 Automatically collected information.
 
-Data about your account and game progress
+ - Data about your account and game progress
 
-In-game information (such as Player Level, currency balance).
+ - In-game information (such as Player Level, currency balance).
 
-Your IP address and mobile device identifiers (such as device model, device ID, OS version and operator’s name)
+ - Your IP address and mobile device identifiers (such as device model, device ID, OS version and operator’s name)
 
-Time and date of the connection to the game and/or service, IP and MAC address, Game Center ID, region, platform, cookie information, session information
+ - Time and date of the connection to the game and/or service, IP and MAC address, Game Center ID, region, platform, cookie information, session information
 
-General location data
+ - General location data
 
-Precise geo-location data (GPS, with your consent)
+ - Precise geo-location data (GPS, with your consent)
 
-Data about your use of the Service, such as gameplay data and your interactions with other players inside the Service
+ - Data about your use of the Service, such as gameplay data and your interactions with other players inside the Service
 
 ### 2. Why we need your Information
 
-Identify and match different players to battles
+ - Identify and match different players to battles
 
-Rank players with username and achievement
+ - Rank players with username and achievement
 
-Operate the Service
+ - Operate the Service
 
-Verify and confirm payments in game
+ - Verify and confirm payments in game
 
-Provide and deliver products and services you request
+ - Provide and deliver products and services you request
 
-Send you Service-related communications
+ - Send you Service-related communications
 
-Request feedback
+ - Request feedback
 
-Develop and improve the Service and player experience
+ - Develop and improve the Service and player experience
 
-Provide social features as part of the Service
+ - Provide social features as part of the Service
 
-Customize your Service experience
+ - Customize your Service experience
 
-Respond to your comments and questions and provide player support
+ - Respond to your comments and questions and provide player support
 
-Send you related information, such as updates, security alerts, and support messages
+ - Send you related information, such as updates, security alerts, and support messages
 
-Enable you to communicate with other players
+ - Enable you to communicate with other players
 
-Keep the Service and its social features safe and fair, fight fraud and ensure acceptable use otherwise
+ - Keep the Service and its social features safe and fair, fight fraud and ensure acceptable use otherwise
 
-With your consent, we may process your data for additional purposes, such as using your GPS location to show you local events.
+ - With your consent, we may process your data for additional purposes, such as using your GPS location to show you local events.
 
 ### 3. How Information is protected
 
