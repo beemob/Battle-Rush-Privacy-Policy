@@ -1,3 +1,5 @@
+## PRIVACY POLICY
+
 At Beemob Hanoi Studio (“we” or “us”), we are committed to protecting your privacy and keeping your information safe. This Privacy Policy explains how we collect, use, disclose and protect information of players accessing Battle Rush and other related technologies (“Service”).
 
 ### 1. Which of your Information we collect
