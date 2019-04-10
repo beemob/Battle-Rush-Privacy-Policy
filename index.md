@@ -4,7 +4,7 @@ At Beemob Hanoi Studio (“we” or “us”), we are committed to protecting y
 
 ### 1. Which of your Information we collect
 
-<b> User provided information </b>
+```User provided information```
 
 Contact information (such as name and email address)
 
